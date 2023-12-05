@@ -1,7 +1,7 @@
 # Academic ERP
 
 An Academic ERP frontend made with React.js Framework. 
-Backend: https://github.com/doped-semiconductor/ecomm-api-simulation
+Backend: https://github.com/doped-semiconductor/academia-backend
 
 
 ## Run Locally
